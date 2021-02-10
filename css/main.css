@@ -1,0 +1,17 @@
+@import "./bloks/_base.css";
+@import "./bloks/_buttons.css";
+
+@import "./bloks/_menu-icon.css";
+@import "./bloks/_nav.css";
+@import "./bloks/_header.css";
+@import "./bloks/_section-header.css";
+@import "./bloks/_product.css";
+@import "./bloks/_info-section.css";
+@import "./bloks/_post.css";
+@import "./bloks/_subscribe-form.css";
+@import "./bloks/_footer.css";
+
+@media (min-width: 992px) {
+}
+
+/* @import "./bloks/_hamburger-menu.css"; */
