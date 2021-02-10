@@ -1,14 +1,14 @@
-@import "./bloks/_base.css";
-@import "./bloks/_buttons.css";
+@import "./bloks/base.css";
+@import "./bloks/buttons.css";
 
-@import "./bloks/_menu-icon.css";
-@import "./bloks/_nav.css";
-@import "./bloks/_header.css";
-@import "./bloks/_section-header.css";
-@import "./bloks/_product.css";
-@import "./bloks/_info-section.css";
-@import "./bloks/_post.css";
-@import "./bloks/_subscribe-form.css";
-@import "./bloks/_footer.css";
+@import "./bloks/menu-icon.css";
+@import "./bloks/nav.css";
+@import "./bloks/header.css";
+@import "./bloks/section-header.css";
+@import "./bloks/product.css";
+@import "./bloks/info-section.css";
+@import "./bloks/post.css";
+@import "./bloks/subscribe-form.css";
+@import "./bloks/footer.css";
 
 /* @import "./bloks/_hamburger-menu.css"; */
